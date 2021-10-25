@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects that i can create value through my knowledge, gaining experience and learning
 - 📫 How to reach me: pedroxleal10@gmail.com
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/pedrocleal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocleal&show_icons=true&theme=dracula&include_all_commits=true&count_privade=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocleal&layout=compact&langs_count=16&theme=dracula"/>
