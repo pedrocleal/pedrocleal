@@ -1,8 +1,14 @@
 ### Hello, i'm Pedro Leal👋
 
+[PT-BR]
 
+- 🌱 Atualemente estou aprendendo ReactJS, ReactNative e NodeJS
+- 🚀 Em busca de uma oportunidade para colaborar em projetos reais onde eu possa criar valor através do meu conhecimento, aprendendo e ganhando experiência.
+- 📫 Entrar em contato: pedroxleal10@gmail.com
+
+[🇺🇸]
 - 🌱 I’m currently learning ReactJS, ReactNative and NodeJS
-- 👯 I’m looking to collaborate on projects that i can create value through my knowledge, gaining experience and learning
+- 🚀 I’m looking to collaborate on projects that i can create value through my knowledge, gaining experience and learning
 - 📫 How to reach me: pedroxleal10@gmail.com
 
 <div style="display: flex">
