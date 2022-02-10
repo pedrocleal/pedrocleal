@@ -1,4 +1,4 @@
-## Olá, sou Pedro Leal👋
+## Olá, sou o Pedro Leal👋
 
 - 🖥️ Trabalho atualmente como desenvolvedor freelancer
 - 🌱 Estou aprendendo ReactJS, ReactNative e NodeJS
