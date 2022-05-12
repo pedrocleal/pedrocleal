@@ -2,7 +2,7 @@
 
 - 🖥️ Trabalho atualmente como desenvolvedor freelancer
 - 🌱 Estou aprendendo ReactJS, ReactNative e NodeJS
-- 🚀 Em busca de uma oportunidade para entrar em ação no mercado de trabalho e colaborar em projetos reais onde eu possa criar valor através do meu conhecimento, aprendendo e ganhando experiência.
+- 🚀 Em busca de uma oportunidade para entrar em ação no mercado de trabalho e colaborar em projetos reais onde eu possa criar valor através do meu conhecimento trabalhando com outros desenvolvedores, aprendendo e ganhando experiência.
 - 📫 Entrar em contato: pedroxleal10@gmail.com
 
 <div>
