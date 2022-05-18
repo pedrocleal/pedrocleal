@@ -1,9 +1,9 @@
 ## Olá, sou o Pedro Leal👋
 
-- 🖥️ Trabalho atualmente como desenvolvedor freelancer
-- 🌱 Estou aprendendo ReactJS, ReactNative e NodeJS
-- 🚀 Em busca de uma oportunidade para entrar em ação no mercado de trabalho e colaborar em projetos reais onde eu possa criar valor através do meu conhecimento trabalhando com outros desenvolvedores, aprendendo e ganhando experiência.
-- 📫 Entrar em contato: pedrocleal.dev@gmail.com
+- 🖥️ Trabalho atualmente como desenvolvedor freelancer;
+- 🌱 Estou aprendendo ReactJS, NodeJS e todo ecossistema por voltas dessas tecnologias;
+- 🚀 Em busca de uma oportunidade para entrar em ação no mercado de trabalho e colaborar em projetos reais onde eu possa criar valor através do meu conhecimento trabalhando com outros desenvolvedores, aprendendo e ganhando experiência;
+- 📫 Entrar em contato: pedrocleal.dev@gmail.com;
 
 <div>
     <a href="https://www.linkedin.com/in/pedro-leal-2335a0214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
