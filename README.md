@@ -11,7 +11,8 @@
   </div>
 
 <div style="display: flex">
-  <h4>Tecnologias tenho experiência:</h4>
+  <h4>Tecnologias tenho experiência e/ou já tive contato:</h4>
+    
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="pedro-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
