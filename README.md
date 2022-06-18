@@ -1,17 +1,16 @@
-## Olá, sou o Pedro Leal👋
+## Hi there, i'm Pedro Leal 👋
 
-- 🖥️ Trabalho atualmente como desenvolvedor freelancer;
-- 🌱 Estou aprendendo ReactJS, NodeJS e todo ecossistema por voltas dessas tecnologias;
-- 🚀 Em busca de uma oportunidade para entrar em ação no mercado de trabalho e colaborar em projetos reais onde eu possa criar valor através do meu conhecimento trabalhando com outros desenvolvedores, aprendendo e ganhando experiência;
-- 📫 Entrar em contato: pedrocleal.dev@gmail.com;
+- 🖥️  I currently work as a freelance developer;
+- 🌱 I'm learning ReactJS, NodeJS and the entire ecosystem around these technologies;
+- 🚀 Looking for an opportunity to get into the job market and collaborate on projects where I can create value through my knowledge by working with other developers, learning and gaining experience;
+- 📫 Get in touch: pedrocleal.dev@gmail.com;
 
 <div>
     <a href="https://www.linkedin.com/in/pedro-leal-2335a0214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:pedrocleal.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 
 <div style="display: flex">
-  <h4>Tecnologias tenho experiência e/ou já tive contato:</h4>
+  <h4>Technologies i have experience and/or have had contact with:</h4>
     
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
