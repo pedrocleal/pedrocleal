@@ -1,16 +1,16 @@
-## Hi there, i'm Pedro Leal 👋
+## Olá, sou Pedro Leal 👋
 
-- 🖥️  I currently work as a freelance developer;
-- 🌱 I'm learning ReactJS, NodeJS and the entire ecosystem around these technologies;
-- 🚀 Looking for an opportunity to get into the job market and collaborate on projects where I can create value through my knowledge by working with other developers, learning and gaining experience;
-- 📫 Get in touch: pedrocleal.dev@gmail.com;
+- 🖥️  Trabalho atualmente como desenvolvedor freelancer;
+- 🌱 Estou aprendendo sobre React.js, Node.js e todo o ecossistema por trás dessas techs;
+- 🚀 Em busca de uma oportunidade para entrar no mercado de trabalho e colaborar em projetos onde eu possa criar valor através dos meus conhecimentos trabalhando com outros desenvolvedores, aprendendo, e ganhando experiência;
+- 📫 Entre em contato: pedrocleal.dev@gmail.com;
 
 <div>
     <a href="https://www.linkedin.com/in/pedro-leal-2335a0214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
 <div style="display: flex">
-  <h4>Technologies i have experience and/or have had contact with:</h4>
+  <h4>Tecnologias que já tive contato, seja no trabalho ou estudando:</h4>
     
   <img align="center" alt="pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
