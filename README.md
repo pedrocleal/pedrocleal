@@ -1,6 +1,6 @@
 ## Hi there, i'm Pedro Leal 👋
 
-- 🖥️  Web Developer;
+- 🖥️ Working as Front-end Developer at PBHub;
 - 🌱 I'm learning daily about ReactJS, NodeJS and the entire ecosystem behind these technologies;
 - 🚀 As a developer, I always seek to apply best practices to deliver performance applications with a good end-user experience;
 - 📫 Get in touch: pedrocleal.dev@gmail.com;
