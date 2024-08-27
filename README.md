@@ -1,6 +1,6 @@
-## Hi there, i'm Pedro Leal 👋
+## Hi there, i'm Pedro Leal 👋🏾
 
-- 👨🏿 Software Engineer from Brazil with over 3 years of experience in web development;
+- 👨🏾 Software Engineer from Brazil with over 3 years of experience in web development;
 - 🖥️ I currently working with ReactJS and Typescript;
 - 🌱 I'm learning daily about all related to front-end development;
 - 🚀 As a developer, I always seek to apply best practices to deliver performance applications with a good end-user experience;
